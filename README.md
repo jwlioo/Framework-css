@@ -213,25 +213,25 @@ O projeto utiliza os breakpoints do Tailwind para adaptar a interface a diferent
 
 ### App.tsx
 
-![Código do App](./docs/images/app.png)
+![Código do App](./images/app.png)
 
 ### Componente Header
 
-![Código do Header](./docs/images/header.png)
+![Código do Header](./images/header.png)
 
 ### Componente Hero
 
-![Código do Hero](./docs/images/hero.png)
+![Código do Hero](./images/hero.png)
 
 ### Componente Stats
 
-![Código do Stats](./docs/images/stats.png)
+![Código do Stats](./images/stats.png)
 
 ---
 
 ## 🌐 Aplicação funcionando
 
-![Aplicação funcionando](./docs/images/aplicacao.png)
+![Aplicação funcionando](./images/aplicacao.png)
 
 A aplicação apresenta uma interface responsiva desenvolvida utilizando exclusivamente as classes utilitárias do Tailwind CSS para grande parte da estilização.
 
