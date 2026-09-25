@@ -207,33 +207,6 @@ O projeto utiliza os breakpoints do Tailwind para adaptar a interface a diferent
 | `lg:grid-cols-4` | Utiliza quatro colunas                |
 | `lg:text-6xl`    | Aumenta o tamanho do título           |
 
----
-
-## 🖥️ Prints do código
-
-### App.tsx
-
-![Código do App](./images/app.png)
-
-### Componente Header
-
-![Código do Header](./images/header.png)
-
-### Componente Hero
-
-![Código do Hero](./images/hero.png)
-
-### Componente Stats
-
-![Código do Stats](./images/stats.png)
-
----
-
-## 🌐 Aplicação funcionando
-
-![Aplicação funcionando](./images/aplicacao.png)
-
-A aplicação apresenta uma interface responsiva desenvolvida utilizando exclusivamente as classes utilitárias do Tailwind CSS para grande parte da estilização.
 
 ---
 
